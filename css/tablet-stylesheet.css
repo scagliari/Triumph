@@ -1,0 +1,47 @@
+@media (min-width: 768px) {
+
+  .logo1 {
+  width: 18%;
+  }
+
+  .banner {
+    display: block;
+
+  }
+
+  .banner img {
+    width: 100%;
+  }
+
+  .Nuevos {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .novedades {
+    width: 40%;
+    margin: 20px auto;
+    text-align: center;
+
+  }
+
+  .productos {
+    display: flex;
+    justify-content: flex-end;
+
+  }
+
+  .cadaproducto {
+    width: 40%;
+  }
+
+  .logos {
+    width: 10%;
+
+}
+
+.Copy {
+  font-size: 20px;
+}

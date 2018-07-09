@@ -1,0 +1,101 @@
+
+
+.main {
+  width: 100%;
+  margin: 0px auto;
+
+}
+
+
+
+.navbar-dark {
+  background-color: black;
+}
+
+.logo1 {
+display: block;
+margin: 0px auto;
+width: 55%;
+padding-bottom: 10px;
+}
+
+
+
+.banner {
+  display: none;
+}
+
+
+.footer {
+    background-color: black;
+    padding: 20px 0px;
+
+}
+
+.contenidofooter {
+
+  width: 90%;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tdfooter {
+  display: block;
+  width: 30%;
+  height: 30%;
+}
+
+.logos {
+  width: 25%;
+  margin: auto 0;
+}
+
+.novedades {
+  width: 90%;
+  margin: 20px auto;
+  text-align: center;
+
+}
+
+.texto {
+margin: 10px auto;
+width: 80%;
+
+
+}
+
+.novedades a {
+  text-decoration: none;
+  background-color: #3f3f3f;
+  color: white;
+  padding: 10px 10px;
+  margin: 5px 0px;
+}
+
+.novedades img {
+  width: 80%;
+  margin: 10px auto;
+}
+
+.productos img {
+  width: 100%;
+  display: block;
+  margin: 0px auto;
+}
+
+.productos .imagenes {
+  background-color: #bebebe;
+  margin: 0px auto;
+  padding: 10px 0px;
+  width: 70%;
+}
+
+.productos .texto{
+  margin: 20px auto;
+  width: 70%;
+}
+
+.Copy {
+  color: white;
+}
